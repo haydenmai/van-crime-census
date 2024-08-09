@@ -1,4 +1,4 @@
-# CMPT 353 Project - Vancouver Crime Rates
+# Vancouver Crime Rates Analysis & Modelling
 A project done by April Nguyen, Benley Hsiang, and Hayden Mai for CMPT 353: Computational Data Science at SFU.
 
 This project explores the effect of socioeconomic factors on the number of crimes in Vancouver as well as investigating the possibility of modelling other urban cities using Vancouver’s population demographics.
